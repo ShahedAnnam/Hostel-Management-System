@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1720509193 source:d:\second year\2-1\oop_project_c++\main.cpp
+	<bits/stdc++.h>
+	<unistd.h>
+	"border.h"
+	"manager.h"
+	"bajar.h"
+	"extra_function.h"
+	"payment.h"
+	"intros.h"
+
+1720509325 d:\second year\2-1\oop_project_c++\border.h
+	<bits/stdc++.h>
+	<unistd.h>
+
+1720509437 d:\second year\2-1\oop_project_c++\manager.h
+	<bits/stdc++.h>
+	<unistd.h>
+	"border.h"
+	"bajar.h"
+
+1720509263 d:\second year\2-1\oop_project_c++\bajar.h
+	<bits/stdc++.h>
+	<unistd.h>
+
+1720509613 d:\second year\2-1\oop_project_c++\extra_function.h
+	"bajar.h"
+	"manager.h"
+	"payment.h"
+
+1720509488 d:\second year\2-1\oop_project_c++\payment.h
+	<bits/stdc++.h>
+	<unistd.h>
+
+1720509373 d:\second year\2-1\oop_project_c++\intros.h
+
